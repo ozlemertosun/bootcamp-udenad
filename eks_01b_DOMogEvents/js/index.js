@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	
 	let number = 5;
 
-	//der er oprettet variabler, for en min og maximum værdi;
+	//der er oprettet variabler, for en min og maximum værdi; 
 	let minValue = 0;
 	let maxValue = 10;
 
