@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	// skriv din kode her...
 
 	const besked = "hej med dig"
-	let navn = ["Minna", "Laura", "Kenny", "Vagn", "Sheila", "Özlem", "Christian"]
+	let navn = ["Minna", "Laura", "Kenny", "Vagn", "Sheila", "Christian", "Özlem"]
 	
 	function hils(navn){
 		let randomNumber = Math.floor(Math.random()* 7); 
